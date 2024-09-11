@@ -30,3 +30,6 @@ wiki/
 
 # Ignore build artifacts
 *.tgz
+
+# Ignore env variables
+*.env
